@@ -1,0 +1,4 @@
+# T11: SINGLE - primary fired last, secondary empty, primary now empty too
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # primary fires (last torpedo)
+TORPEDO,SINGLE  # both stores empty -> nothing to fire
