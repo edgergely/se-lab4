@@ -1,0 +1,3 @@
+# T8: ALL - at least one store succeeds
+GT4500,1,1.0,1,0
+TORPEDO,ALL  # primary fails, secondary succeeds

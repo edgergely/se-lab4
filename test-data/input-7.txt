@@ -1,0 +1,4 @@
+# T7: ALL - both stores are fired
+GT4500,1,0,1,0
+TORPEDO,ALL  # both stores fire
+TORPEDO,SINGLE  # both stores are empty now

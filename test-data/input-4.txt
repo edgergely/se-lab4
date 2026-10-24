@@ -1,0 +1,3 @@
+# T4: SINGLE - primary is empty -> secondary is fired
+GT4500,0,0,1,0
+TORPEDO,SINGLE  # primary empty -> secondary fires
