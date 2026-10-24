@@ -1,0 +1,3 @@
+# T1: SINGLE - first time the primary store is fired
+GT4500,1,0,1,1.0
+TORPEDO,SINGLE  # primary never fails, secondary always fails -> primary must fire

@@ -1,0 +1,4 @@
+# T2: SINGLE - stores are fired alternating
+GT4500,10,0,10,1.0
+TORPEDO,SINGLE  # primary fires
+TORPEDO,SINGLE  # secondary fires and fails
